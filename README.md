@@ -8,9 +8,9 @@ I have completed a 18-month education program “Data analyst” from Yandex.Pra
 Используемые инструменты: python,PostgreSQL,SQL
 
 Анализ и визуализация: pandas, numpy, statsmodels, scipy, matplotlib, seaborn\
-Classic ML: Scikit-learn, CatBoost, LightGBM, imblearn
-Deep Learning: PyTorch, Keras
-NLP: NLTK, Spacy, ruBERT, transformers
+Classic ML: Scikit-learn, CatBoost, LightGBM, imblearn\
+Deep Learning: PyTorch, Keras\
+NLP: NLTK, Spacy, ruBERT, transformers\
 Big Data: Pyspark.
 
 <!--
