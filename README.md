@@ -1,6 +1,10 @@
-## Hi there 👋
+## Приветствую.👋
 - 🌱 I’m currently learning Data science and have some repositories
 - 🔭 I’m currently working on Statistick methods
+
+Знание Python (pandas, numpy, matplotlib, seaborn, skipy, plotly)  Python
+
+SQL  SQL
 
 <!--
 **TomashevichEG/TomashevichEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
