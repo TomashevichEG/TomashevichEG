@@ -5,7 +5,7 @@
 I have completed a 18-month education program “Data analyst” from Yandex.Practikum.
 
 
-**Иинструменты:** python,PostgreSQL,SQL.\
+**Инструменты:** python,PostgreSQL,SQL.\
 **Анализ и визуализация:** pandas, numpy, statsmodels, scipy, matplotlib, seaborn.\
 **Classic ML:** Scikit-learn, CatBoost, LightGBM, imblearn.\
 **Deep Learning:** PyTorch, Keras.\
