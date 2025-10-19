@@ -1,10 +1,14 @@
 ## Приветствую.👋
-- 🌱 I’m currently learning Data science and have some repositories
+- 🌱 Завершил курс Data science.
 - 🔭 I’m currently working on Statistick methods
 
-Знание Python (pandas, numpy, matplotlib, seaborn, skipy, plotly)  Python
+I have completed a 18-month education program “Data analyst” from Yandex.Practikum.
 
-SQL  SQL
+Знание Python (pandas, numpy, matplotlib, seaborn, skipy, plotly)
+SQL
+
+
+
 
 <!--
 **TomashevichEG/TomashevichEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
