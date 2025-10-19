@@ -1,6 +1,6 @@
 ## Приветствую.👋
 - 🌱 Завершил курс Data science.
-- 🔭 I’m currently working on Statistick methods
+- 🔭 Изучаю математику и статистияеские методы.
 
 I have completed a 18-month education program “Data analyst” from Yandex.Practikum.
 
