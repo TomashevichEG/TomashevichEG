@@ -1,8 +1,6 @@
 ## Приветствую.👋
-- 🌱 Завершил курс Data science.
+- 🌱 Завершил курс 18 месячный курс Data science от Yandex.Practikum.
 - 🔭 Изучаю математику и статистияеские методы.
-
-I have completed a 18-month education program “Data analyst” from Yandex.Practikum.
 
 
 **Инструменты:** python,PostgreSQL,SQL.\
